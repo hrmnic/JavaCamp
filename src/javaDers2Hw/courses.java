@@ -14,14 +14,11 @@ public class courses {
 		this.instructorName=instructorName;
 		this.description=description;
 		this.price=price;
-		
-		
+	
 	}
 	public int id;
 	public String name;
 	public String instructorName;  
 	public String description;
 	public double price;
-	
-
 }
